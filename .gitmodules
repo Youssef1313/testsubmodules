@@ -1,3 +1,7 @@
 [submodule "Directory.Build.targets"]
 	path = Directory.Build.targets
 	url = https://github.com/Youssef1313/YAnalyzers.git
+
+[submodule "Directory.Build.targets2"]
+	path = Directory.Build.targets2
+	url = https://github.com/Youssef1313/YAnalyzers.git
