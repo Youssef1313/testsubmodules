@@ -1,0 +1,3 @@
+[submodule "Directory.Build.targets"]
+	path = Directory.Build.targets
+	url = https://github.com/Youssef1313/Directory.Build.targets.git
